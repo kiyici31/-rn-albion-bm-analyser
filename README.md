@@ -38,6 +38,12 @@ Always verify prices **in-game before trading**.
 
 The developer is **not responsible for market losses**.
 
+📬 Contact
+
+If you have questions, suggestions, or bug reports, feel free to contact me.
+
+Discord: profuckator
+
 ---
 
 ## TÜRKÇE
@@ -72,6 +78,12 @@ Bu araç **analiz amaçlıdır**.
 İşlem yapmadan önce fiyatları **oyun içinden kontrol etmeniz önerilir**.
 
 Geliştirici **piyasa zararlarından sorumlu değildir**.
+
+📬 İletişim
+
+Sorularınız, önerileriniz veya hata bildirimleri için benimle iletişime geçebilirsiniz.
+
+Discord: profuckator
 
 ---
 
