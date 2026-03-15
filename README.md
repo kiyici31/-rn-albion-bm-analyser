@@ -4,7 +4,7 @@
 
 ---
 
-# 🇬🇧 English
+## ENGLISH
 
 A lightweight tool for identifying **profitable Black Market flips** in **Albion Online**.
 Helps traders quickly detect items with strong price differences between the market and the Black Market.
@@ -38,7 +38,7 @@ The developer is **not responsible for market losses**.
 
 ---
 
-# 🇹🇷 Türkçe
+## TÜRKÇE
 
 **Albion Online Black Market Analyzer**, Albion Online oyuncularının **Black Market fırsatlarını analiz etmesine** yardımcı olan bir araçtır.
 
