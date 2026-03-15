@@ -23,7 +23,7 @@ Helps traders quickly detect items with strong price differences between the mar
 
 Download the latest version from the **Releases page**:
 
-➡ [[https://github.com/kiyici31/albion-black-market-analyzer/releases]
+➡ https://github.com/kiyici31/albion-black-market-analyzer/releases
 
 After downloading:
 
@@ -58,7 +58,7 @@ Market ile **Black Market fiyatları arasındaki farkları** analiz ederek potan
 
 En son sürümü **Releases** sayfasından indirebilirsiniz:
 
-➡ [[https://github.com/kiyici31/albion-black-market-analyzer/releases]
+➡ https://github.com/kiyici31/albion-black-market-analyzer/releases
 
 İndirdikten sonra:
 
