@@ -42,7 +42,7 @@ The developer is **not responsible for market losses**.
 
 If you have questions, suggestions, or bug reports, feel free to contact me.
 
-Discord: profuckator
+**Discord: profuckator**
 
 ---
 
@@ -83,7 +83,7 @@ Geliştirici **piyasa zararlarından sorumlu değildir**.
 
 Sorularınız, önerileriniz veya hata bildirimleri için benimle iletişime geçebilirsiniz.
 
-Discord: profuckator
+**Discord: profuckator**
 
 ---
 
