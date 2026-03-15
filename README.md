@@ -38,7 +38,7 @@ Always verify prices **in-game before trading**.
 
 The developer is **not responsible for market losses**.
 
-📬 Contact
+## 📬 Contact
 
 If you have questions, suggestions, or bug reports, feel free to contact me.
 
@@ -79,7 +79,7 @@ Bu araç **analiz amaçlıdır**.
 
 Geliştirici **piyasa zararlarından sorumlu değildir**.
 
-📬 İletişim
+## 📬 İletişim
 
 Sorularınız, önerileriniz veya hata bildirimleri için benimle iletişime geçebilirsiniz.
 
